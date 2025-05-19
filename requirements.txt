@@ -1,0 +1,6 @@
+streamlit
+numpy
+sklearn
+pickle
+requests
+random
